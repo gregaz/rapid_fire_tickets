@@ -6,7 +6,7 @@ This chrome addin will constantly refresh the [Transformus tickets sales](http:/
 
 1. Download the [zip file](https://github.com/KevinColemanInc/rapid_fire_tickets/archive/master.zip)
 2. Unzip it
-3. In Chrome to [chrome://extensions/](chrome://extensions/) and click "Load unpacked extensions".
+3. In Chrome to [chrome://extensions/](chrome://extensions/) and click "Load unpacked extensions"
 4. Navigate to the unziped location of the file.
 5. Sign into your [http://www.brownpapertickets.com](http://www.brownpapertickets.com) account
 5. Open a bunch of tabs in chrome and navigate them all to: [http://www.brownpapertickets.com/event/614931](http://www.brownpapertickets.com/event/614931)
