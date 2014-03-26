@@ -1,0 +1,1 @@
+parent.location='https://www.brownpapertickets.com/checkout.html';

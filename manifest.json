@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "Rapid fire tickets for Transformus",
+  "description": "This extension automatically keeps trying to buy tickets for Transformus.",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["http://www.brownpapertickets.com/event/614931*"],
+      "js": ["jquery.js", "home.js"],
+      "run_at": "document_end"
+    },
+    {
+      "matches": ["http://www.brownpapertickets.com/viewcart.html"],
+      "js": ["jquery.js", "checkout.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
