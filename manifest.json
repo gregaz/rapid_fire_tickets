@@ -9,7 +9,7 @@
     {
       "matches": ["http://www.brownpapertickets.com/event/614931*"],
       "js": ["jquery.js", "home.js"],
-      "run_at": "document_end"
+      "run_at": "document_start"
     },
     {
       "matches": ["http://www.brownpapertickets.com/viewcart.html"],
