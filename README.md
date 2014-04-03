@@ -1,6 +1,6 @@
 # rapid_fire_tickets
 
-This chrome addin will constantly refresh the [Transformus tickets sales](http://www.brownpapertickets.com/event/614931?date=1017125)
+This chrome addin will constantly refresh the [Transformus tickets sales](http://www.brownpapertickets.com/event/614931?date=1017125) and automatically add them to your cart.  For every tab you have open, it will be like a person helping you buy tickets!
 
 ## Installation
 
