@@ -1,3 +1,12 @@
+# Announcement
+It looks like they are going to be adding a coupon code to the process.  My guess is they are going to set the ticket price at some crazy high amount and will ask you to put in a special discount code that will be released moments before.  This will drop the price down to the expected amount.
+
+They also say that they will ban anyone that uses this.  But to be honest, they can't tell.  They will have no idea who is using this and who isn't.  It is fare game.
+
+With that said, I will try my very best to update the plugin as soon as possible so you can download it at your whim. 
+
+Cheers.
+
 # rapid_fire_tickets
 
 This chrome addin will constantly refresh the [Transformus tickets sales](http://www.brownpapertickets.com/event/614931?date=1017125) and automatically add them to your cart.  For every tab you have open, it will be like a person helping you buy tickets!
