@@ -15,7 +15,7 @@ I updated the Installation instructions below.
 
 This chrome addin will constantly refresh the [Transformus tickets sales](http://www.brownpapertickets.com/event/614931?date=1017125) and automatically add them to your cart.  For every tab you have open, it will be like a person helping you buy tickets!
 
-### IMPORTANT (4/19)
+### IMPORTANT
 Tomorrow I plan on moving my page load optimizations to its own extension.  If they do something other than a password change that kills this tool and I have to buy this by hand, I am making a seperate extension that will ONLY make the page load faster.  You should enable this new extension in incognito mode so that you won't have to fight the rapid_fire_tickets when buying tickets and can still take advantage of the speed up.
 
 ## Update the extension if you already have it
