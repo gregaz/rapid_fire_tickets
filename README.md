@@ -5,11 +5,9 @@ I suspect they will be adding a secret code that will be released to confuse thi
 
 They also say that they will ban anyone that uses this.  But to be honest, they can't tell.  They will have no idea who is using this and who isn't.  It is fare game.
 
-With that said, I will try my very best to update the plugin as soon as possible so you can download it at your whim. 
-
 In an effort to combat that, I have added a feature to this tool that lets you add in a code as an option.  I also added optimizations to remove image loading and disable the Google Maps from loading on the right side thus speeding the page load time.
 
-So you know its running, the page title of the tab is changed to "Rapid Fire Engaged".
+You know its running, the page title of the tab is changed to "Rapid Fire Engaged".
 
 I updated the Installation instructions below.
 
