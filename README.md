@@ -1,5 +1,12 @@
 # rapid_fire_tickets
 
+## Update 4/19 1:15PM
+I created an extension that speed up my load time by 80%.  Now when I go to the event page, it took 1 second to load instead of 5.
+
+Just in case this bot doesn't work.  you should have an incognito tab open with this installed (you have to check the box that says "run in incognito mode" so it will actually run).  This way you can still take advantage of Chrome extensions and have a better chance of getting tickets.  Good luck!
+
+That project can be found here. [https://github.com/KevinColemanInc/rapid_page_load](https://github.com/KevinColemanInc/rapid_page_load)
+
 ## Update 4/18 PLEASE READ
 I suspect they will be adding a secret code that will be released to confuse this tool.  The code will either unlock a hidden ticket type that can be purchased, or they will adjust the price of the current ticket type to something insane and a coupon code will bring it down to the regular price.
 
